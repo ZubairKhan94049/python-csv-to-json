@@ -1,0 +1,256 @@
+{
+    "COSMETIC AND PLASTIC SURGERY": [
+        "Abdominoplasty",
+        "Arm Lift",
+        "Brazilian Butt Lift",
+        "Breast Implant",
+        "Breast Reconstruction With Implant",
+        "Face Lift",
+        "Gender Change Surgery",
+        "Gynecomastia",
+        "Mommy Makeover",
+        "Penile Lengthening",
+        "Tummy Tuck",
+        "Vaginoplasty",
+        "Rhinoplasty",
+        "Liposuction",
+        "Hair Transplant",
+        "Breast Augmentation",
+        "Cleft Lip Surgery",
+        "Cleft Palate Surgery"
+    ],
+    "ENT SURGERY": [
+        "Tonsillectomy Treatment",
+        "Adenoidectomy",
+        "Tracheostomy",
+        "Bronchoscopy",
+        "Cochlear Implants Treatment",
+        "Rhinoplasty"
+    ],
+    "HEMATOLOGY": [
+        "Aplastic Anemia Treatment",
+        "Acute Myeloid Leukemia Aml Treatment",
+        "Bmt Bone Marrow Transplant",
+        "Thalassemia Treatment",
+        "Sickle Cell Anemia Treatment",
+        "Leukemia Treatment"
+    ],
+    "ONCOLOGY AND ONCOSURGERY": [
+        "Papillary Thyroid Cancer Treatment",
+        "Gastrointestinal Stromal Tumors Gist Treatment",
+        "Kidney Cancer Treatment",
+        "Metastatic Cancer Treatment",
+        "Pancreatic Cancer Treatment",
+        "Sarcoma Treatment",
+        "Vaginal Cancer Treatment",
+        "Gallbladder Cancer Treatment",
+        "Hodgkin Lymphoma Treatment",
+        "Lung Cancer Treatment",
+        "Oral Cancer Treatment",
+        "Stomach Cancer Treatment",
+        "Liver Cancer Treatment",
+        "Breast Cancer Treatment",
+        "Wilms Tumor Treatment",
+        "Retinal Detachment Treatment"
+    ],
+    "PEDIATRICS AND PEDIATRIC SURGERY": [
+        "Cleft Lip Surgery",
+        "Cleft Palate Surgery",
+        "Glenn Procedure",
+        "Hypospadias Treatment",
+        "Paediatric Hip Dysplasia Treatment",
+        "Pediatric Liver Transplantation",
+        "Tetralogy Of Fallot Treatment",
+        "Ventricular Septal Defects Treatment"
+    ],
+    "CARDIOLOGY AND CARDIAC SURGERY": [
+        "Congenital Heart Disease Chd Treatment",
+        "Device Closure For Asd",
+        "Heart Transplant",
+        "Pacemaker",
+        "Valve Replacement",
+        "Bentall Surgery",
+        "Heart Bypass Surgery Cabg",
+        "Heart Surgery",
+        "Aicd",
+        "Angiography",
+        "Angioplasty 1 Stent Treatment",
+        "Coronary Angioplasty",
+        "Crt D Implant Cardiac Resynchronization Therapy",
+        "Icd Implantation",
+        "Mitral Valve Replacement",
+        "Vsd Closure Adult Surgery",
+        "Tavi",
+        "Lvad",
+        "Aortic Valve Replacement"
+    ],
+    "GASTROENTEROLOGY": [
+        "Gastric Bypass Treatment",
+        "Cholecystectomy Gall Bladder Removal Treatment"
+    ],
+    "GENERAL SURGERY": [
+        "Bl Inguinal Hernia Laparoscopic",
+        "Haemorrhoids Treatment",
+        "Fibroid Removal Surgery",
+        "Liver Transplant",
+        "Colon Cancer Treatment"
+    ],
+    "GYNECOLOGY": [
+        "Intracytoplasmic Sperm Injection",
+        "Ivf With Donor Eggs",
+        "Ovarian Cyst",
+        "Hysteroscopic Polypectomy",
+        "Hysterectomy",
+        "Myomectomy",
+        "Pesa Percutaneous Epididymal Sperm Aspiration Treatment",
+        "Tesa Testicular Sperm Aspiration Treatment",
+        "Laparoscopic Gynecological Surgery"
+    ],
+    "HEPATOLOGY": [
+        "Liver Transplant"
+    ],
+    "IVF and INFERTILITY": [
+        "Intracytoplasmic Sperm Injection",
+        "Ivf With Donor Eggs"
+    ],
+    "NEPHROLOGY": [
+        "Kidney Transplant",
+        "Removal Of Kidney Stones"
+    ],
+    "NEUROLOGY AND NEUROSURGERY": [
+        "Bell S Palsy Treatment",
+        "Blood Clot Brain Surgery",
+        "Cerebral Angioplasty",
+        "Cranioplasty",
+        "Craniotomy",
+        "Cyberknife Treatment",
+        "Epilepsy Treatment",
+        "Gamma Knife",
+        "Gliomas Treatment",
+        "Meningioma Treatment",
+        "Hydrocephalus Treatment",
+        "Deep Brain Stimulation Surgery",
+        "Parkinson S Treatment",
+        "Brain Tumor Treatment",
+        "Vp Shunt",
+        "Neurosurgery",
+        "Minimally Invasive Spine Surgery",
+        "Neuroendocrine Tumor Treatment",
+        "Neuro Rehab Treatment",
+        "Neurorehabilitation",
+        "Pituitary Tumor Treatment",
+        "Post Stroke Rehab Treatment",
+        "Scoliosis Spine Surgery",
+        "Slip Disc Spine",
+        "Spina Bifida Treatment",
+        "Brain Tumor Treatment",
+        "Spine Tumour Surgery"
+    ],
+    "OBESITY OR BARIATRIC SURGERY": [
+        "Gastric Bypass Treatment"
+    ],
+    "ORTHOPEDICS": [
+        "Total Hip Replacement Thr",
+        "Minimally Invasive Knee Replacement Surgery",
+        "Knee Arthroscopy",
+        "Bilateral Total Hip Replacement",
+        "Osteotomy",
+        "Revision Acl Reconstruction Surgery",
+        "Shoulder Replacement",
+        "Arthritis Treatment",
+        "Limb Lengthening",
+        "Sports Related Injuries Treatment",
+        "Paediatric Hip Dysplasia Treatment",
+        "1 Level Spinal Decompression Fixation",
+        "Anterior Cervical Discectomy And Fusion Acdf",
+        "Cervical Spondylosis Treatment",
+        "Lumbar Laminectomy",
+        "Spinal Fusion Surgery",
+        "Tlif Surgery",
+        "Spinal Laminectomy",
+        "Cervical Spine Surgery",
+        "Autologous Bone Marrow Transplant",
+        "Hip Replacement"
+    ],
+    "PULMONOLOGY": [
+        "Bronchoscopy"
+    ],
+    "SPINE SURGERY": [
+        "1 Level Spinal Decompression Fixation",
+        "Anterior Cervical Discectomy And Fusion Acdf",
+        "Cervical Spondylosis Treatment",
+        "Lumbar Laminectomy",
+        "Spinal Fusion Surgery",
+        "Tlif Surgery",
+        "Spinal Laminectomy",
+        "Cervical Spine Surgery",
+        "Minimally Invasive Spine Surgery",
+        "Scoliosis Spine Surgery",
+        "Slip Disc Spine",
+        "Spina Bifida Treatment"
+    ],
+        
+    "SPINE SURGERY": [
+        "1 Level Spinal Decompression Fixation",
+        "Anterior Cervical Discectomy And Fusion Acdf",
+        "Cervical Spondylosis Treatment",
+        "Lumbar Laminectomy",
+        "Spinal Fusion Surgery",
+        "Tlif Surgery",
+        "Spinal Laminectomy",
+        "Cervical Spine Surgery",
+        "Minimally Invasive Spine Surgery",
+        "Scoliosis Spine Surgery",
+        "Slip Disc Spine",
+        "Spina Bifida Treatment",
+        "Spine Tumour Surgery"
+    ],
+    "TRANSPLANT SURGERY": [
+        "Heart Transplant",
+        "Liver Transplant",
+        "Kidney Transplant",
+        "Bone Marrow Transplant"
+    ],
+    "UROLOGY TREATMENT": [
+        "Erectile Dysfunction Ed",
+        "Penile Implantation Single",
+        "Removal Of Kidney Stones",
+        "Testicular Implant",
+        "Vasectomy Reversal",
+        "Urethral Stricture Surgery",
+        "Prostatectomy",
+        "Turp",
+        "Urethroplasty"
+    ],
+    "VASCULAR SURGERY": [
+        "Open Aortic Aneurysm Repair",
+        "Arterial Aneurysms Treatment",
+        "Carotid Artery Stenosis Treatment",
+        "Varicose Veins Treatment",
+        "Angiography",
+        "Angioplasty 1 Stent Treatment",
+        "Coronary Angioplasty",
+        "Transarterial Chemoembolization Tace"
+    ],
+    "ENDOCRINOLOGY": [
+        "Thyroid Cancer Treatment"
+    ],
+    "OPTHALMOLOGY": [
+        "Cornea Transplant",
+        "Retinal Detachment Treatment"
+    ],
+    "DERMATOLOGY": [
+        "Skin Cancer Treatment"
+    ],
+    "RHEUMATOLOGY": [
+        "Arthritis Treatment"
+    ],
+    "DENTAL TREATMENT": [
+        "Tooth Extraction",
+        "Root Canal Treatment",
+        "Dental Implants",
+        "Orthodontics",
+        "Cosmetic Dentistry",
+        "Oral Surgery"
+    ]
+}
